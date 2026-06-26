@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="game_bg_dark">#121212</color>
+    <color name="game_card_bg">#1E1E24</color>
+    <color name="game_text_primary">#FDFDFD</color>
+    <color name="game_text_secondary">#A0A0A0</color>
+    <color name="game_accent_gold">#FFD700</color>
+    <color name="game_rebirth_pink">#FF69B4</color>
+    <color name="game_card_stroke">#2A3A5E</color>
+    <color name="game_tab_bg">#1A1A2E</color>
+    <color name="game_btn_buy">#00E676</color>
+    <color name="game_btn_owned">#616161</color>
+    <color name="game_btn_active">#29B6F6</color>
+    <color name="ic_launcher_background">#121212</color>
+</resources>
